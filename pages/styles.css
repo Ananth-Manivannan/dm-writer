@@ -4,6 +4,8 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Manrope', sans-serif;
+    background-image: url('animeVillage.jpeg');
+    opacity: .75;
 }
 
 .root {
