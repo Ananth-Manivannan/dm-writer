@@ -5,7 +5,7 @@ export default function Document() {
     <Html>
       <Head>
         <meta property="og:title" content="LinkedIn Genie" key="title"/>
-        <meta property="og:description" content="Generate personalized LinkedIn dms" key="description"/>
+        <meta property="og:description" content="Generate personalized linkedin DMs" key="description"/>
         <meta
         />
         <meta name="twitter:card" content="summary_large_image"></meta>
