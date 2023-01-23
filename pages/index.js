@@ -39,7 +39,7 @@ const callGenerateEndpoint = async () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Unleash the Magic of SalesGenie </h1>
+            <h1>Unleash the Magic of LinkedInGenie </h1>
           </div>
           <div className="header-subtitle">
             <h2>Streamline Lead Engagement with AI-Powered Personalized Messages.</h2>
@@ -65,7 +65,7 @@ const callGenerateEndpoint = async () => {
           <div className="output">
             <div className="output-header-container">
               <div className="output-header">
-                <h3>Alakazam! Your wish is my command</h3>
+                <h3>Your wish is my command</h3>
               </div>
             </div>
             <div className="output-content">
@@ -83,7 +83,6 @@ const callGenerateEndpoint = async () => {
         >
           <div className="badge">
             <Image src={buildspaceLogo} alt="buildspace logo" />
-            <p>build with buildspace</p>
           </div>
         </a>
       </div>
