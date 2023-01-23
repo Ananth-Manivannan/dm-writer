@@ -4,8 +4,8 @@ export default function Document() {
   return (
     <Html>
       <Head>
-        <meta property="og:title" content="GPT-3 Writer" key="title"/>
-        <meta property="og:description" content="build with buildspace" key="description"/>
+        <meta property="og:title" content="LinkedIn Genie" key="title"/>
+        <meta property="og:description" content="Generate personalized LinkedIn dms" key="description"/>
         <meta
         />
         <meta name="twitter:card" content="summary_large_image"></meta>
