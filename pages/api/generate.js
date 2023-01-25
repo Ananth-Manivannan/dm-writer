@@ -5,7 +5,7 @@ const configuration = new Configuration({
 });
 
 const openai = new OpenAIApi(configuration);
-const basePromptPrefix = `Write me a one sentence personalized cold linkedin message to a person with the following bio, suggesting that we connect regarding the platform I work on, UserTesting, which helps companies get qualatative and quantative insights from their customers. The goal is to eventually sell them to use my platform, but conceal that for now. Focus on building a relationship and having a casual conversation. Include something personalized about the bio.
+const basePromptPrefix = `Write me a one sentence personalized cold linkedin message to a person with the following bio, suggesting that we connect regarding the platform I work on, UserTesting, which helps companies get qualatative insights from their customers. The goal is to eventually sell them to use my platform, but conceal that for now. Focus on building a relationship and having a casual conversation. Include something personalized about the bio.
 
 Bio:
 
